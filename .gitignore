@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ProjectEvaluation
+/RaftLabsSolution.ExternalUserService/bin/Debug/net8.0
+/RaftLabsSolution.ExternalUserService/obj
+/.vs/RaftLabsSolution.ExternalUserService
+/.vs
+/RaftLabsSolution.ExternalUserService.Test/bin
+/RaftLabsSolution.ExternalUserService.Test/obj
